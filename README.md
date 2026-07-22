@@ -9,9 +9,9 @@
 
 ### 💻 About Me
 
-* 🎓 **CS Student** in my 3rd year at **FIB - Universitat Politècnica de Catalunya** (UPC).
+* 🎓 **CS Student** in my 4th year at **FIB - Universitat Politècnica de Catalunya** (UPC).
 * ⚙️ Passionate about low-level software, algorithms, and building efficient things.
-* 📍 Based in Barcelona.
+* 📍 Based in Barcelona. Currently studying abroad as an exchange student at KTH (Stockholm).
 
 ---
 
@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomeumestre&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="400">
 </p>
