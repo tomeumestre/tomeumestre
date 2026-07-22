@@ -10,7 +10,6 @@
 ### 💻 About Me
 
 * 🎓 **CS Student** in my 4th year at **FIB - Universitat Politècnica de Catalunya** (UPC).
-* ⚙️ Passionate about low-level software, algorithms, and building efficient things.
 * 📍 Based in Barcelona. Currently studying abroad as an exchange student at KTH (Stockholm).
 
 ---
